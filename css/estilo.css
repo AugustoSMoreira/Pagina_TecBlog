@@ -54,7 +54,7 @@ body {
 .postagem-lateral {
 	font-size: 0.8em;
 	padding: 5px;
-	border-bottom: 1px dotted #CCC;
+	border-bottom: 1px solid #CCC;
 }
 
 #rodape {
